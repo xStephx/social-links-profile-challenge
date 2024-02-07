@@ -9,6 +9,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ![](./assets/images/screenshot.PNG)
 
+You can check it out live [here](https://xstephx.github.io/social-links-profile-challenge/).
+
 ## My process
 
 ### Built with
